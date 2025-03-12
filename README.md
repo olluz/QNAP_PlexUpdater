@@ -8,5 +8,5 @@ Installation:
 
 - I'm cd'ing first into the directory so that the log file will be stored in the same dir
 
-- The script might need some cleaning up, but it works pretty solid so far. 
-- No more manual updates!
+The script might need some cleaning up, but it works pretty solid so far. 
+No more manual updates!
