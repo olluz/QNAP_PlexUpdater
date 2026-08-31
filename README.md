@@ -10,3 +10,8 @@ Installation:
 
 The script might need some cleaning up, but it works pretty solid so far. 
 No more manual updates!
+
+2026.08.31 Update:
+Since the latest update the script complaining about missing zlib (it still works though). I'm missing the time to look into the issue at the moment.
+Check out this scipt in the meantime: https://github.com/barnumbirr/qnap-plex-updater
+It works really good.
